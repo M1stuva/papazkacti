@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Blueprints/Interfaces/BPI_Player.uasset
+Content/Blueprints/Players/BP_NPC.uasset
+Content/Blueprints/Players/BP_OldMaidChar.uasset
